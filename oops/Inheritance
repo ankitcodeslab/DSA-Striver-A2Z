@@ -1,0 +1,25 @@
+Inheritance
+Definition: Mechanism of acquiring properties of another class.
+
+Types:
+
+Single
+
+Multiple
+
+Multilevel
+
+Hierarchical
+
+Hybrid
+
+Syntax:
+
+cpp
+class Base {
+public:
+    int x;
+};
+class Derived : public Base {
+    int y;
+};
