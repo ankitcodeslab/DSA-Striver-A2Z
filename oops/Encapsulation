@@ -1,0 +1,12 @@
+Encapsulation
+Definition: Wrapping data and methods into a single unit (class).
+
+Access Specifiers:
+
+public: Accessible everywhere
+
+private: Accessible only inside class
+
+protected: Accessible inside class + derived classes
+
+Benefit: Data hiding and controlled access.
