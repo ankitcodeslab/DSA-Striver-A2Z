@@ -1,0 +1,15 @@
+Constructors and Destructors
+Constructor: Special function called when object is created.
+
+Types: Default, Parameterized, Copy Constructor.
+
+Destructor: Special function called when object is destroyed.
+
+Example:
+
+cpp
+class Demo {
+public:
+    Demo() { cout << "Constructor called"; }
+    ~Demo() { cout << "Destructor called"; }
+};
