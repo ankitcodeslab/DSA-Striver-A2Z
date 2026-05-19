@@ -1,0 +1,16 @@
+Abstraction
+Definition: Hiding implementation details, showing only essential features.
+
+Achieved by:
+
+Abstract classes (with pure virtual functions)
+
+Interfaces
+
+Example:
+
+cpp
+class Shape {
+public:
+    virtual void draw() = 0; // pure virtual function
+};
